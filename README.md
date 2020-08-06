@@ -145,4 +145,4 @@ LinkedIn: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
 [issues-url]: https://github.com/haitham-chabayta/self-driving-car/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/haitham-chabayta-0654681b1/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.PNG
